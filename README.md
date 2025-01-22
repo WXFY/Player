@@ -8,6 +8,7 @@
 本项目只有安卓版本 [下载地址](https://www.pgyer.com/CL6uvs)
 
 ## 已实现功能
+- [x] 支持Navidrome服务端
 - [x] 支持群晖QuickConnect
 - [x] 支持群晖6.x,7.x
 - [x] 文件夹视图
